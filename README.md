@@ -1,2 +1,6 @@
 # play-with-git
-This repo is for testing, playing, bashing and complaining.  Have fun!
+This md was edited with vim. Have fun!
+
+try out vimtutor!
+
+
